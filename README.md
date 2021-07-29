@@ -1,4 +1,4 @@
 # hello-world
 
-hi human
+hi human \n
 git config
